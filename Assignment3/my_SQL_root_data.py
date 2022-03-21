@@ -1,5 +1,5 @@
 
 ser='root'
-passwd='RootSQL2021!'
+passwd='password'
 database='cx_inserts'
-host='127.0.0.1'
+host='000.0.0.0'
